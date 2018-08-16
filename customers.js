@@ -11,7 +11,7 @@ const customers = [
     'location': {
       'street': '8073 rolling green rd',
       'city': 'south valley',
-      'state': 'msouri',
+      'state': 'missouri',
       'postcode': 99356
     },
     'email': 'curtis.ryan@example.com',
